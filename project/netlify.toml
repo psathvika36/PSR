@@ -1,7 +1,0 @@
-[build]
-  base = "."  # Root directory of the project
-  publish = "dist"  # Directory to deploy (Vite outputs to 'dist')
-  command = "npm run build"  # Build command
-
-[functions]
-  directory = "netlify/functions"  # Optional: If you're using Netlify Functions
