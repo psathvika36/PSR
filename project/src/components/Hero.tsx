@@ -30,11 +30,9 @@ const Hero = () => {
           </main>
         </div>
         <div className="lg:w-1/2 lg:flex lg:items-center lg:justify-center lg:pl-10 h-full">
-          <img
-            className="h-30 w-30 object-cover object-center lg:h-auto lg:w-auto"
-            src="src/images/psr2.png"
-            alt="image"
-          />
+
+          <img className="h-30 w-30 object-cover object-center lg:h-auto lg:w-auto" src="/images/psr2.png" alt="image"/>
+        
         </div>
       </div>
     </div>
