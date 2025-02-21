@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { ArrowRight } from 'lucide-react';
 
 const Hero = () => {
@@ -13,8 +13,7 @@ const Hero = () => {
                 <span className="block text-indigo-600">Java Developer</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                Results-driven Associate Java Developer with expertise in full-stack development, microservices architecture, and building scalable applications.
-              </p>
+              Professional Java Developer with extensive expertise in full-stack development, microservices architecture, and scalable application design. Committed to delivering innovative and efficient solutions that align with business objectives and drive growth.              </p>
               <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div className="rounded-md shadow">
                   <a
@@ -31,7 +30,7 @@ const Hero = () => {
         </div>
         <div className="lg:w-1/2 lg:flex lg:items-center lg:justify-center lg:pl-10 h-full">
 
-          <img className="h-30 w-30 object-cover object-center lg:h-auto lg:w-auto" src="/images/psr2.png" alt="image"/>
+          <img className="h-20 w-20 object-cover object-center lg:h-auto lg:w-auto" src="/images/psr2.png" alt="image"/>
         
         </div>
       </div>

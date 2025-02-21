@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { FaCode, FaPuzzlePiece, FaBookOpen, FaLightbulb, FaMusic } from "react-icons/fa";
 
 const About = () => {
